@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/kcharvi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0274-h-index](https://github.com/kcharvi/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -23,3 +24,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kcharvi/LeetCode/tree/master/0274-h-index) |
+# Hash Table
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+# Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+# Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+# Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
