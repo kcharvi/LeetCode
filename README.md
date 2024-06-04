@@ -34,11 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kcharvi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kcharvi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 # Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kcharvi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kcharvi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 # Design
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kcharvi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kcharvi/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kcharvi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 # Stack
