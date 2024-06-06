@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kcharvi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/kcharvi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kcharvi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kcharvi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kcharvi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kcharvi/LeetCode/tree/master/0135-candy) |
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kcharvi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kcharvi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/kcharvi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kcharvi/LeetCode/tree/master/0125-valid-palindrome) |
