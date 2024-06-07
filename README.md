@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/kcharvi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kcharvi/LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kcharvi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kcharvi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/kcharvi/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kcharvi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kcharvi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kcharvi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kcharvi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kcharvi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0392-is-subsequence) |
 # String
 |  |
@@ -94,3 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kcharvi/LeetCode/tree/master/0014-longest-common-prefix) |
+# Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kcharvi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
