@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kcharvi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kcharvi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kcharvi/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kcharvi/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kcharvi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -123,3 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kcharvi/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
