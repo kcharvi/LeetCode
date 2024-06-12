@@ -1,25 +1,22 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String[] splited = s.split(" ");
-        if (splited.length != pattern.length()) return false;
-        HashMap<Character, String> map = new HashMap();
-        HashMap<String, Character> map2 = new HashMap();
-        boolean flag = true;
-        for(int i = 0; i<pattern.length();i++){
-            if(map.containsKey(pattern.charAt(i)) || map2.containsKey(splited[i])){
-                if(!splited[i].equals(map.get(pattern.charAt(i)))
-                    ||
-                    !(pattern.charAt(i) == map2.get(splited[i]))
-                    ){
-                    flag = false;
-                    break;
-                }
+        HashMap<String, Character> map = new HashMap();
+        String[] strs = s.split(" ");
+        if(strs.length!=pattern.length())return false;
+        int i=0;
+        for(String str: strs){
+            if(map.containsKey(str)){
+                if(map.get(str) != pattern.charAt(i))
+                    return false;
             }
             else{
-                map.put(pattern.charAt(i), splited[i]);
-                map2.put(splited[i], pattern.charAt(i));
+                if(map.containsValue(pattern.charAt(i)))
+                    return false;
+                
+                map.put(str, pattern.charAt(i));
             }
+            i++;
         }
-        return flag;
+        return true;
     }
 }
