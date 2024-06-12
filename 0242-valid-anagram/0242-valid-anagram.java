@@ -25,15 +25,21 @@ class Solution {
 
 
         // FINE SOLUTION
-        if(s.length()!=t.length())return false;
-        char sch[] = s.toCharArray();
-        char tch[] = t.toCharArray();
-        Arrays.sort(sch);
-        Arrays.sort(tch);
-        for(int i=0;i<sch.length;i++)
-            if(sch[i]!=tch[i])return false;
-        return true;
+        // if(s.length()!=t.length())return false;
+        // char sch[] = s.toCharArray();
+        // char tch[] = t.toCharArray();
+        // Arrays.sort(sch);
+        // Arrays.sort(tch);
+        // for(int i=0;i<sch.length;i++)
+        //     if(sch[i]!=tch[i])return false;
+        // return true;
 
-        
+        // BEST SOLUTION
+        if(s.length()!=t.length())return false;
+        int[] count=new int[123];
+        for(char ch: s.toCharArray())count[ch]++;
+        for(char ch: t.toCharArray())count[ch]--;
+        for(int i:count)if(i!=0)return false;
+        return true;
     }
 }
