@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/kcharvi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kcharvi/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/kcharvi/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/kcharvi/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kcharvi/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kcharvi/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kcharvi/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/kcharvi/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/kcharvi/LeetCode/tree/master/0274-h-index) |
 # Counting Sort
