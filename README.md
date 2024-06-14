@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kcharvi/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kcharvi/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kcharvi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kcharvi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kcharvi/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/kcharvi/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kcharvi/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/kcharvi/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -160,3 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/kcharvi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/kcharvi/LeetCode/tree/master/0068-text-justification) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
