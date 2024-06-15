@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/kcharvi/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kcharvi/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/kcharvi/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/kcharvi/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/kcharvi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kcharvi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kcharvi/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/kcharvi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kcharvi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/kcharvi/LeetCode/tree/master/0071-simplify-path) |
 # Monotonic Stack
 |  |
 | ------- |
