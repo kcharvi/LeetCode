@@ -10,28 +10,34 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummyHead = new ListNode(0);
-        ListNode tail = dummyHead;
-        int carry = 0;
+        int rem =0;
+        int res=0;
+        int n1,n2=0;
+        
+        ListNode node = new ListNode();
+        ListNode head = node;
 
-        while (l1 != null || l2 != null || carry != 0) {
-            int digit1 = (l1 != null) ? l1.val : 0;
-            int digit2 = (l2 != null) ? l2.val : 0;
+        while(l1!=null || l2!=null){
+            n1 = (l1 == null) ? 0 :l1.val;
+            n2 = (l2 == null) ? 0 :l2.val;
 
-            int sum = digit1 + digit2 + carry;
-            int digit = sum % 10;
-            carry = sum / 10;
+            res = rem + n1 + n2;
 
-            ListNode newNode = new ListNode(digit);
-            tail.next = newNode;
-            tail = tail.next;
+            rem = res/10;
+            res = res%10;
 
-            l1 = (l1 != null) ? l1.next : null;
-            l2 = (l2 != null) ? l2.next : null;
+            node.next = new ListNode(res);         
+
+            node = node.next;
+
+            if(l1!=null)l1=l1.next;
+            if(l2!=null)l2=l2.next;
         }
 
-        ListNode result = dummyHead.next;
-        dummyHead.next = null;
-        return result;
+        if (rem > 0) {
+            node.next = new ListNode(rem);
+        }
+
+        return head.next;
     }
 }
