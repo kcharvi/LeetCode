@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/kcharvi/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/kcharvi/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/kcharvi/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kcharvi/LeetCode/tree/master/0135-candy) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/kcharvi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kcharvi/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/kcharvi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kcharvi/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kcharvi/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kcharvi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0226-invert-binary-tree) |
 # Depth-First Search
 |  |
@@ -243,8 +246,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kcharvi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0226-invert-binary-tree) |
 # Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kcharvi/LeetCode/tree/master/0146-lru-cache) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
