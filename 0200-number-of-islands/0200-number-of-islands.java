@@ -4,7 +4,6 @@ class Solution {
         int islands = 0;
         int rows = grid.length;
         int cols = grid[0].length;
-        boolean[][] visited = new boolean[rows][cols];
 
         for(int i=0; i<rows; i++)
             for(int j=0; j<cols; j++)
@@ -20,6 +19,7 @@ class Solution {
         q.add(new int[]{i,j});
         int rows = grid.length;
         int cols = grid[0].length;
+        
         while(!q.isEmpty()){
             int[] arr = q.poll();
             int[][] directions = {{1, 0},{-1, 0},{0, 1},{0, -1}};
