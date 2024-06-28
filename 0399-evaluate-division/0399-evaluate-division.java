@@ -1,64 +1,78 @@
+import java.util.*;
+
 class Solution {
-    Map<String, String> id = new HashMap<>();
-    Map<String, Double> w = new HashMap<>();
+    class Pair<K, V> {
+        private K key;
+        private V value;
 
-    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries){
-        for (List<String> eq : equations) {
-            for (String elem : eq) {
-                id.put(elem, elem);
-                w.put(elem, 1.0);
+        public Pair(K key, V value) {
+            this.key = key;
+            this.value = value;
+        }
+
+        public K getKey() {
+            return key;
+        }
+
+        public V getValue() {
+            return value;
+        }
+    }
+
+    HashMap<String, Map<String, Double>> adjmap = new HashMap<>();
+
+    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
+        int i = 0;
+        for (List<String> str : equations) {
+            String a = str.get(0);
+            String b = str.get(1);
+
+            adjmap.putIfAbsent(a, new HashMap<>());
+            adjmap.putIfAbsent(b, new HashMap<>());
+
+            adjmap.get(a).put(b, values[i]);
+            adjmap.get(b).put(a, 1 / values[i]);
+            i++;
+        }
+
+        double[] ans = new double[queries.size()];
+        for (int j = 0; j < queries.size(); j++) {
+            ans[j] = bfs(queries.get(j).get(0), queries.get(j).get(1));
+        }
+        return ans;
+    }
+
+    public double bfs(String src, String target) {
+        if (!adjmap.containsKey(src) || !adjmap.containsKey(target)) return -1.0;
+        if (src.equals(target)) return 1.0;
+
+        Queue<Pair<String, Double>> q = new LinkedList<>();
+        Set<String> visited = new HashSet<>();
+
+        q.add(new Pair<>(src, 1.0));
+        visited.add(src);
+
+        while (!q.isEmpty()) {
+            Pair<String, Double> curr = q.poll();
+            String currNode = curr.getKey();
+            Double currValue = curr.getValue();
+
+            if (currNode.equals(target)) {
+                return currValue;
+            }
+
+            Map<String, Double> neighbors = adjmap.get(currNode);
+            for (Map.Entry<String, Double> entry : neighbors.entrySet()) {
+                String neighbor = entry.getKey();
+                Double weight = entry.getValue();
+
+                if (!visited.contains(neighbor)) {
+                    q.add(new Pair<>(neighbor, currValue * weight));
+                    visited.add(neighbor);
+                }
             }
         }
 
-        int N = equations.size();
-
-        for (int i = 0; i < N; i++) {
-            String q = equations.get(i).get(0);
-            String p = equations.get(i).get(1);
-            String root_q = find(q);
-            String root_p = find(p);
-            if (!root_q.equals(root_p)) {
-                // If not in same set, then union
-                id.put(root_q, p); // At each union, u is a direct child of root_q
-                w.put(root_q, values[i]/w.get(q));
-            }
-        }
-
-        // Flatten everything
-        for (List<String> eq : equations)
-            for (String u : eq) 
-                find(u);
-
-        double[] ret = new double[queries.size()];
-        for (int i = 0; i < ret.length; i++) {
-            String x = queries.get(i).get(0);
-            String y = queries.get(i).get(1);
-            if (!id.containsKey(x) || !id.containsKey(y) || !find(x).equals(find(y)))
-                ret[i] = -1.0;
-            else
-                ret[i] = w.get(x)/w.get(y);
-        }
-
-        // printState();
-
-        return ret;
-    }
-
-    private void printState() {
-        for (String key : id.keySet()) {
-            System.out.printf("%s -> %s : %.2f; ", key, id.get(key), w.get(key));
-        }
-        System.out.println();
-    }
-
-    private String find(String u) {
-        String v = id.get(u);
-        // printState();
-        if (!u.equals(v)) {
-            // This flattens everything to the root on callback
-            id.put(u, find(v));
-            w.put(u, w.get(u) * w.get(v));
-        }
-        return id.get(u);
+        return -1.0;
     }
 }
