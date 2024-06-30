@@ -395,12 +395,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -424,5 +426,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
