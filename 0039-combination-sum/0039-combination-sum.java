@@ -8,7 +8,7 @@ class Solution {
     public void backtrack(List<List<Integer>> res, List<Integer> tempList, int idx, int[] candidates, int remaining){
         if(remaining<0)return;
         if(remaining == 0){
-            Arrays.sort(candidates);
+            // Arrays.sort(candidates);
             res.add(new ArrayList<>(tempList));
         }
         for(int i=idx; i<candidates.length; i++){
