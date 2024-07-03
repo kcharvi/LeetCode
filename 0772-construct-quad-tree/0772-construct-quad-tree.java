@@ -1,5 +1,4 @@
 /*
-// Definition for a QuadTree node.
 class Node {
     public boolean val;
     public boolean isLeaf;
@@ -52,13 +51,12 @@ class Solution {
             return new Node(grid[rStrt][cStrt] == 1, true);
         }
         Node root = new Node();
-        int newREnd = rStrt + (rEnd - rStrt)/2;
-        int newCEnd = cStrt + (cEnd - cStrt)/2;
-        root.topLeft = buildQuad(rStrt, newREnd, cStrt, newCEnd, grid); //topLeft
-        root.topRight = buildQuad(rStrt, newREnd, newCEnd+1, cEnd, grid); //topRight
-        root.bottomLeft = buildQuad(newREnd+1, rEnd, cStrt, newCEnd, grid); //bottomLeft
-        root.bottomRight = buildQuad(newREnd+1, rEnd, newCEnd+1, cEnd, grid); //bottomRight
-        // root.val = true;
+        int newRMid = rStrt + (rEnd - rStrt)/2;
+        int newCMid = cStrt + (cEnd - cStrt)/2;
+        root.topLeft = buildQuad(rStrt, newRMid, cStrt, newCMid, grid); //topLeft
+        root.topRight = buildQuad(rStrt, newRMid, newCMid+1, cEnd, grid); //topRight
+        root.bottomLeft = buildQuad(newRMid+1, rEnd, cStrt, newCMid, grid); //bottomLeft
+        root.bottomRight = buildQuad(newRMid+1, rEnd, newCMid+1, cEnd, grid); //bottomRight
         return root;       
     }
 
