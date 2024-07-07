@@ -553,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/kcharvi/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/kcharvi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/kcharvi/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Simulation
 |  |
 | ------- |
