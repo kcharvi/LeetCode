@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kcharvi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -536,4 +537,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
