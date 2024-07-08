@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/kcharvi/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kcharvi/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
