@@ -386,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/kcharvi/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kcharvi/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kcharvi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kcharvi/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kcharvi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kcharvi/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kcharvi/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
