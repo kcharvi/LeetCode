@@ -549,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kcharvi/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/kcharvi/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kcharvi/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kcharvi/LeetCode/tree/master/0069-sqrtx) |
@@ -571,4 +572,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kcharvi/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kcharvi/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
