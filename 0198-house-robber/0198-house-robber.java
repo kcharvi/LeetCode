@@ -6,7 +6,7 @@ class Solution {
     }
     public int rob(int[] dp, int i, int[] nums){
         if(i>= nums.length)return 0;
-        if(dp[i]!=-1)return 0;
+        if(dp[i]!=-1)return dp[i];
         dp[i] = Math.max(rob(dp, i+2, nums) + nums[i], 
                          rob(dp, i+1, nums));
         return dp[i];
