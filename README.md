@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kcharvi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/kcharvi/LeetCode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
@@ -486,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/kcharvi/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kcharvi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/kcharvi/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/kcharvi/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/kcharvi/LeetCode/tree/master/0139-word-break) |
