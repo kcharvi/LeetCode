@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kcharvi/LeetCode/tree/master/0322-coin-change) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kcharvi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/kcharvi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/kcharvi/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
