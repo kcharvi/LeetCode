@@ -1,31 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int resLen = 0;
-        String ans = "";
+        if(s.length() <= 1)return s;
         int n = s.length();
-        for(int i = 0; i<n; i++){
-            //odd length
-            int l=i;
-            int r=i;
-            while(l>=0 && r<n && s.charAt(l)==s.charAt(r)){
-                if((r-l+1) > resLen){
-                    ans = s.substring(l, r+1);
-                    resLen = r-l+1;
-                }
-                l-=1;
-                r+=1;
-            }
-            l=i;
-            r=i+1;
-            while(l>=0 && r<n && s.charAt(l)==s.charAt(r)){
-                if((r-l+1) > resLen){
-                    ans = s.substring(l, r+1);
-                    resLen = r-l+1;
-                }
-                l-=1;
-                r+=1;
+        boolean[][] dp = new boolean[n][n];
+        int maxLen = 1;
+        String maxString = s.substring(0, 1);
+
+        for(int i=0; i<n; i++)dp[i][i]=true;
+
+        for(int i=0; i<n-1; i++){
+            dp[i][i+1]= s.charAt(i)==s.charAt(i+1)? true:false;
+            if(dp[i][i+1]){
+                maxLen = 2;
+                maxString = s.substring(i, i+2);
             }
         }
-        return ans;
+
+        for(int len = 3; len <= n; len++){
+            for(int i = 0; i <= n - len; i++){
+                int j = i+len-1;
+                if(s.charAt(i) == s.charAt(j) && dp[i+1][j-1]){
+                    dp[i][j]=true;
+                    if(maxLen<len){
+                        maxString = s.substring(i,j+1);
+                        maxLen = len;
+                    }
+                }
+            }
+        }
+        return maxString;
     }
 }
