@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/kcharvi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kcharvi/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kcharvi/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/kcharvi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
@@ -612,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kcharvi/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/kcharvi/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kcharvi/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kcharvi/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kcharvi/LeetCode/tree/master/0066-plus-one) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kcharvi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
 ## Geometry
 |  |
