@@ -468,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kcharvi/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Design
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kcharvi/LeetCode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kcharvi/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kcharvi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
