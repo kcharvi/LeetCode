@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/kcharvi/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/kcharvi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kcharvi/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/kcharvi/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/kcharvi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/kcharvi/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kcharvi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kcharvi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
