@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/kcharvi/LeetCode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kcharvi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -722,4 +724,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/kcharvi/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
