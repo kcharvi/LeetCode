@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kcharvi/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/kcharvi/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kcharvi/LeetCode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/kcharvi/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/kcharvi/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kcharvi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kcharvi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kcharvi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Math
