@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/kcharvi/LeetCode/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/kcharvi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kcharvi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/kcharvi/LeetCode/tree/master/0605-can-place-flowers) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Math
 |  |
