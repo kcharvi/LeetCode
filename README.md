@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/kcharvi/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0495-teemo-attacking](https://github.com/kcharvi/LeetCode/tree/master/0495-teemo-attacking) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/kcharvi/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/kcharvi/LeetCode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/kcharvi/LeetCode/tree/master/0495-teemo-attacking) |
 ## Geometry
 |  |
 | ------- |
