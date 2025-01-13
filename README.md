@@ -490,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
+| [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -704,6 +705,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kcharvi/LeetCode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -715,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kcharvi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Combinatorics
