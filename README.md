@@ -685,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/kcharvi/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/kcharvi/LeetCode/tree/master/0279-perfect-squares) |
+| [0504-base-7](https://github.com/kcharvi/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kcharvi/LeetCode/tree/master/1585-the-kth-factor-of-n) |
