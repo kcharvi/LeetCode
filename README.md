@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0495-teemo-attacking](https://github.com/kcharvi/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/kcharvi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/kcharvi/LeetCode/tree/master/0605-can-place-flowers) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/kcharvi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/kcharvi/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kcharvi/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/kcharvi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kcharvi/LeetCode/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kcharvi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -754,4 +757,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kcharvi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2478-longest-nice-subarray](https://github.com/kcharvi/LeetCode/tree/master/2478-longest-nice-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kcharvi/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
