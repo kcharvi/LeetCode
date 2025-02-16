@@ -44,61 +44,47 @@
 //         prereq = new ArrayList(prereq_);
 //     }
 // }
-import java.util.*;
 
 class Solution {
-    // Graph: course -> list of prerequisites
-    HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
-    
+    HashMap<Integer, ArrayList<Integer>> map = new HashMap();
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        // Build the graph
-        for (int[] pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            map.computeIfAbsent(course, k -> new ArrayList<>()).add(prereq);
+        for(int i=0; i<prerequisites.length; i++){
+            int course = prerequisites[i][0];
+            Integer prereq_ = prerequisites[i][1];
+            if (!map.containsKey(course)) {
+                ArrayList<Integer> list = new ArrayList<>();
+                list.add(prereq_);
+                map.put(course, list);
+            }
+            else{
+                map.get(course).add(prereq_);
+            }            
         }
-        
-        // Arrays for tracking DFS:
-        // 'visiting' for nodes in the current DFS recursion stack.
-        // 'visited' for nodes that have been fully processed.
-        boolean[] visiting = new boolean[numCourses];
-        boolean[] visited = new boolean[numCourses];
-        
-        // Perform DFS for each course.
-        for (int course = 0; course < numCourses; course++) {
-            if (!visited[course] && !dfs(course, visiting, visited)) {
+        boolean[] visitedAllCourses = new boolean[numCourses];
+        boolean[] visitedCurrentCourseNeighbors = new boolean[numCourses];
+
+        for(int course = 0; course<numCourses; course++){
+            if(visitedAllCourses[course] == false && 
+               dfs(course, visitedAllCourses, visitedCurrentCourseNeighbors) == false) 
                 return false;
-            }
         }
         return true;
     }
-    
-    // DFS to detect cycles.
-    private boolean dfs(int course, boolean[] visiting, boolean[] visited) {
-        // If this node is in the current recursion stack, we found a cycle.
-        if (visiting[course]) {
+    boolean dfs(int course, boolean[] visitedAllCourses, boolean[] visitedCurrentCourseNeighbors){
+        if(visitedCurrentCourseNeighbors[course])
             return false;
-        }
-        // If it's already fully processed, no need to explore it again.
-        if (visited[course]) {
+        if(visitedAllCourses[course])
             return true;
+
+        visitedCurrentCourseNeighbors[course] = true;
+        if(map.containsKey(course))
+        for(Integer prereq_ : map.get(course)){
+            if(dfs(prereq_, visitedAllCourses, visitedCurrentCourseNeighbors) == false) 
+                return false;
         }
-        
-        // Mark this course as being visited in the current path.
-        visiting[course] = true;
-        
-        // Explore all prerequisites (neighbors).
-        if (map.containsKey(course)) {
-            for (int prereq : map.get(course)) {
-                if (!dfs(prereq, visiting, visited)) {
-                    return false;
-                }
-            }
-        }
-        
-        // Backtrack: mark the course as fully processed and remove it from the current path.
-        visiting[course] = false;
-        visited[course] = true;
+        visitedAllCourses[course] = true;
+        visitedCurrentCourseNeighbors[course] = false;
         return true;
     }
+
 }
