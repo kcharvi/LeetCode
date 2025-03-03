@@ -503,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kcharvi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kcharvi/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kcharvi/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kcharvi/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kcharvi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kcharvi/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
