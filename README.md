@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/kcharvi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kcharvi/LeetCode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kcharvi/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/kcharvi/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kcharvi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kcharvi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/kcharvi/LeetCode/tree/master/0605-can-place-flowers) |
