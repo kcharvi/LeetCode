@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kcharvi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0443-string-compression](https://github.com/kcharvi/LeetCode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kcharvi/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/kcharvi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kcharvi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kcharvi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/kcharvi/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kcharvi/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
