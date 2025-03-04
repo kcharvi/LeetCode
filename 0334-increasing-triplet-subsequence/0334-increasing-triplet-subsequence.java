@@ -48,8 +48,8 @@ class Solution {
         // if(i==-1 || j==-1 || k==-1)return false;
         // else return true;
 
-        if (nums == null || nums.length < 3) {
-        return false; // Not enough elements for a triplet
+    if (nums == null || nums.length < 3) {
+        return false; 
     }
     
     int first = Integer.MAX_VALUE;
@@ -57,11 +57,11 @@ class Solution {
 
     for (int num : nums) {
         if (num <= first) {
-            first = num; // Update the smallest number
+            first = num; 
         } else if (num <= second) {
-            second = num; // Update the second smallest number
+            second = num;
         } else {
-            return true; // Found a number greater than first and second
+            return true; 
         }
     }
 
