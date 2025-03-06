@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kcharvi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kcharvi/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Breadth-First Search
 |  |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/kcharvi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kcharvi/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/kcharvi/LeetCode/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kcharvi/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -671,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Merge Sort
 |  |
 | ------- |
