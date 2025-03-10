@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/kcharvi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kcharvi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## String
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kcharvi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kcharvi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 ## Design
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Merge Sort
 |  |
@@ -797,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Indexed Tree
 |  |
 | ------- |
