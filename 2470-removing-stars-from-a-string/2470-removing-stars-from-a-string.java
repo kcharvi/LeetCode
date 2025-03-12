@@ -15,3 +15,16 @@ class Solution {
         return ans.reverse().toString();
     }
 }
+
+// class Solution:
+//     def removeStars(self, s: str) -> str:
+//         n = len(s)
+//         stack = []
+        
+//         for i in range(n):
+//             if s[i] != '*':
+//                 stack.append(s[i])
+//             else:
+//                 stack.pop()
+                
+//         return "".join(stack)        
