@@ -1,37 +1,33 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> countStack = new Stack<>();
-        Stack<String> stringStack = new Stack<>();
-        String curString = "";
-        int k = 0;
-
-        for (char c : s.toCharArray()) {
-            if (Character.isDigit(c)) {
-                // Build the number for k
-                k = k * 10 + (c - '0');
-            } else if (c == '[') {
-                // Push the current count and string onto their respective stacks
-                countStack.push(k);
-                stringStack.push(curString);
-                // Reset for the new segment
-                k = 0;
-                curString = "";
-            } else if (c == ']') {
-                // Pop the count and previous string
-                int repeatTimes = countStack.pop();
-                String prevString = stringStack.pop();
-                // Append the repeated current string to the previous string
-                StringBuilder sb = new StringBuilder(prevString);
-                for (int i = 0; i < repeatTimes; i++) {
-                    sb.append(curString);
-                }
-                curString = sb.toString();
-            } else {
-                // Append the character to the current string
-                curString += c;
+        Stack<Integer> numstk = new Stack();
+        Stack<StringBuilder> strstk = new Stack<>();
+        StringBuilder curr = new StringBuilder();
+        int num=0;
+        for(int i=0; i<s.length(); i++){
+            char ch = s.charAt(i);
+            if(Character.isDigit(ch))
+                num = num * 10 + (ch - '0');
+            else if(ch == '['){
+                numstk.push(num);
+                strstk.push(curr);
+                curr = new StringBuilder();
+                num=0;
             }
-        }
+            else if(ch == ']'){
+                int times = numstk.isEmpty()? 1: numstk.pop();
+                StringBuilder decoded = new StringBuilder();
+                while(times>0){
+                    decoded.append(curr);
+                    times--;
+                }
+                curr = strstk.pop().append(decoded);
+            }
+            else
+                curr.append(ch);
 
-        return curString;
+        }
+        return curr.toString();
+        
     }
 }
