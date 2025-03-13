@@ -6,13 +6,8 @@ class RecentCounter {
     
     public int ping(int t) {
         requests.add(t);
-        if(requests.peek()+3000 > t){
-            return requests.size();
-        }
-        else{
-            while(requests.peek() !=null && requests.peek()+3000 < t){
-                requests.poll();
-            }
+        while (requests.peek() != null && requests.peek() + 3000 < t) {
+            requests.poll();
         }
         return requests.size();
     }
