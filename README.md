@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kcharvi/LeetCode/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0801-is-graph-bipartite](https://github.com/kcharvi/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/kcharvi/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Linked List
 |  |
 | ------- |
