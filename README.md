@@ -467,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/kcharvi/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0801-is-graph-bipartite](https://github.com/kcharvi/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/kcharvi/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0801-is-graph-bipartite](https://github.com/kcharvi/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -642,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/kcharvi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
