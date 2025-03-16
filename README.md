@@ -566,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0801-is-graph-bipartite](https://github.com/kcharvi/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
@@ -624,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kcharvi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0772-construct-quad-tree](https://github.com/kcharvi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -671,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/kcharvi/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
