@@ -16,14 +16,14 @@
 class Solution {
     ArrayList<Integer> list = new ArrayList();
     public List<Integer> rightSideView(TreeNode root) {
-        rightSideViewHelper(root, 0);
+        search(root, 0);
         return list;
     }
-    public void rightSideViewHelper(TreeNode root, int depth){
-        if(root == null)return;
-        if(list.size() == depth)list.add(root.val);
-        rightSideViewHelper(root.right, depth+ 1);
-        rightSideViewHelper(root.left,depth+ 1);
-        
+    void search(TreeNode node, int depth){
+        if(node==null)return;
+        if(list.size() == depth)
+            list.add(node.val);
+        search(node.right, depth+1);
+        search(node.left, depth+1);
     }
 }
