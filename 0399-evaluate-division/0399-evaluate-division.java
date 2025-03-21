@@ -1,64 +1,69 @@
 class Solution {
-    class Pair<K, V> {
-        K key;
-        V value;
-        public Pair(K key, V value) {
-            this.key = key;
-            this.value = value;
-        }
-        public K getKey() {
-            return key;
-        }
-        public V getValue() {
-            return value;
-        }
-    }
+    public double[] calcEquation(List<List<String>> equations, 
+                                 double[] values, 
+                                 List<List<String>> queries) {
+        int number_of_queries = queries.size();   
+        int number_of_equations = equations.size();                             
+        double[] ans = new double[number_of_queries];
+        Arrays.fill(ans, -1.0);
 
-    Map<String, Map<String, Double>> adjmap = new HashMap();
-    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {    
-        int i=0 ;
-        for (List<String> str : equations) {
-            String a = str.get(0);
-            String b = str.get(1);
-
-            adjmap.putIfAbsent(a, new HashMap<>());
-            adjmap.putIfAbsent(b, new HashMap<>());
-
-            adjmap.get(a).put(b, values[i]);
-            adjmap.get(b).put(a, 1 / values[i]);
-            i++;
+        // Store unique variables
+        HashSet<String> set = new HashSet<>();
+        for(List<String> list: equations){
+            set.add(list.get(0));
+            set.add(list.get(1));
         }
-        
-        double[] ans = new double[queries.size()];
-        for(int j=0; j<queries.size();j++){
-            ans[j] = bfs(queries.get(j).get(0), 
-                         queries.get(j).get(1));
+
+        // Build bidirectional graph with inverse values
+        Map<String, List<String[]>> graph = new HashMap<>();
+        for(int i=0; i<number_of_equations; i++){
+            String from = equations.get(i).get(0);
+            String to = equations.get(i).get(1);
+            double value = values[i];
+            double inverse = 1.0 / value;
+            graph.computeIfAbsent(from, k -> new ArrayList<>())
+                             .add(new String[]{to, String.valueOf(value)});
+            graph.computeIfAbsent(to, k -> new ArrayList<>())
+                             .add(new String[]{from, String.valueOf(inverse)});
+        } 
+
+        int ans_idx = 0;
+        for(List<String> query: queries){
+            String numerator = query.get(0);
+            String denominator = query.get(1);
+            if(!set.contains(numerator) || !set.contains(denominator)){
+                ans_idx++;
+                continue; 
+            }
+            else if(numerator.equals(denominator)) {
+                ans[ans_idx++] = 1.0;   
+            }
+            else{
+                Set<String> visited = new HashSet<>();
+                ans[ans_idx++] = dfs(graph, numerator, denominator, 1.0, visited);
+            }
         }
         return ans;
     }
-    public double bfs(String src, String target){
-        if(!adjmap.containsKey(src) || !adjmap.containsKey(target))return -1;
+    double dfs(Map<String, List<String[]>> graph, 
+               String currentNode, 
+               String targetNode, 
+               double product,
+               Set<String> visited){
+        if(currentNode.equals(targetNode))
+            return product;
+
+        visited.add(currentNode);
+        if(!graph.containsKey(currentNode))
+            return -1.0;
         
-        Queue<Pair<String, Double>> q = new LinkedList();
-        Set<String> visit = new HashSet();
-        q.add(new Pair<>(src, 1.0));
-        visit.add(src);
-
-        while(!q.isEmpty()){
-            Pair<String, Double> curr = q.poll();
-            String currNode = curr.getKey();
-            Double currValue = curr.getValue();
-
-            if(currNode.equals(target))
-                return currValue;
-            Map<String, Double> nei = adjmap.get(currNode);
-            for (Map.Entry<String, Double> entry : nei.entrySet()) {
-                String neighbor = entry.getKey();
-                Double weight = entry.getValue();
-                if (!visit.contains(neighbor)) {
-                    q.add(new Pair<>(neighbor, currValue * weight));
-                    visit.add(neighbor);
-                }
+        for(String[] neighbor: graph.get(currentNode)){
+            String nextNode = neighbor[0];
+            double weight = Double.parseDouble(neighbor[1]);
+            if(!visited.contains(nextNode)){
+                double result = dfs(graph, nextNode, targetNode, product*weight, visited);
+                if(result!=-1.0)
+                    return result;
             }
         }
         return -1.0;
