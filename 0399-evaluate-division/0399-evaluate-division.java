@@ -21,10 +21,10 @@ class Solution {
             String to = equations.get(i).get(1);
             double value = values[i];
             double inverse = 1.0 / value;
-            graph.computeIfAbsent(from, k -> new ArrayList<>())
-                             .add(new String[]{to, String.valueOf(value)});
-            graph.computeIfAbsent(to, k -> new ArrayList<>())
-                             .add(new String[]{from, String.valueOf(inverse)});
+            graph.putIfAbsent(from, new ArrayList<>());
+            graph.putIfAbsent(to, new ArrayList<>());
+            graph.get(from).add(new String[]{to, String.valueOf(value)});
+            graph.get(to).add(new String[]{from, String.valueOf(inverse)});
         } 
 
         int ans_idx = 0;
