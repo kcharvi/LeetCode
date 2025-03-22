@@ -1,12 +1,8 @@
 class SmallestInfiniteSet {
     PriorityQueue<Integer> heap;
-    // HashSet<Integer> set;
     int next;
     public SmallestInfiniteSet() {
         heap = new PriorityQueue<>();
-        // for(int i=1; i<=1000; i++)
-        //     heap.add(i);
-        // set = new HashSet();
         next = 1;   
     }
     
