@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/kcharvi/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kcharvi/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/kcharvi/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kcharvi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kcharvi/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -697,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/kcharvi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kcharvi/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kcharvi/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kcharvi/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/kcharvi/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Merge Sort
 |  |
