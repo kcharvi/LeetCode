@@ -11,6 +11,8 @@ class Solution {
         for(int i=2; i<n-1; i++){
             dp[i] = Math.max(dp[i-1], dp[i-2]+nums[i]);
         }
+
+        // houses from 0 to n-1 (exclude last)
         int[] dp_ = new int[n+1];
         dp_[1] = nums[1];
         dp_[2] = Math.max(nums[1], nums[2]);
