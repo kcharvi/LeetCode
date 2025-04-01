@@ -13,9 +13,7 @@ class Solution {
         int last=points[0][1];
         for(int i=1; i<points.length; i++){
             if(points[i][0]<=last){
-                if(points[i][1]<last){
-                    last=points[i][1];
-                }
+                last = Math.min(points[i][1], last);
             }
             else{
                 last = points[i][1];
