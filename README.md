@@ -454,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/kcharvi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kcharvi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kcharvi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kcharvi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -559,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/kcharvi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kcharvi/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kcharvi/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -706,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/kcharvi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
@@ -763,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kcharvi/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/kcharvi/LeetCode/tree/master/0726-number-of-atoms) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -780,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/kcharvi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kcharvi/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kcharvi/LeetCode/tree/master/0502-ipo) |
+| [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kcharvi/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/kcharvi/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/kcharvi/LeetCode/tree/master/2636-maximum-subsequence-score) |
