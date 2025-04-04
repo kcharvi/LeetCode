@@ -1,48 +1,63 @@
+class TrieNode{
+    HashMap<Character, TrieNode> map = new HashMap();
+    boolean endOfWord = false;
+    TrieNode(){
+        this.map = new HashMap();
+        this.endOfWord = false;
+    }
+    HashMap<Character, TrieNode> getMap(){
+        return this.map;
+    }
+    boolean getEoW(){
+        return this.endOfWord;
+    }
+    void setMap(HashMap map){
+        this.map = map;
+    }
+    void setEoW(boolean EoW){
+        this.endOfWord = EoW;
+    }
+}
 class Trie {
-    TrieNode node;
+    TrieNode root;
     public Trie() {
-        this.node = new TrieNode();
+        this.root = new TrieNode();
     }
     
     public void insert(String word) {
-        TrieNode curr = this.node;
-        char[] arr = word.toCharArray();
-        for(Character ch : arr){
-            if(!curr.children.containsKey(ch))
-                curr.children.put(ch, new TrieNode());
-            curr = curr.children.get(ch);
+        TrieNode curr = this.root;
+        for(int i=0; i<word.length(); i++){ 
+            char ch = word.charAt(i);
+            if(!curr.getMap().containsKey(ch))
+                curr.getMap().put(ch, new TrieNode());
+            curr = curr.getMap().get(ch);
         }
-        curr.endOfWord = true;
+        curr.setEoW(true);
     }
     
     public boolean search(String word) {
-        TrieNode curr = this.node;
-        char[] arr = word.toCharArray();
-        for(Character ch : arr){
-            if(!curr.children.containsKey(ch))return false;
-            curr = curr.children.get(ch);
+        TrieNode curr = this.root;
+        for(int i=0; i<word.length(); i++){
+            char ch = word.charAt(i);
+            if(!curr.getMap().containsKey(ch))
+                return false;
+            curr = curr.getMap().get(ch);
         }
-        return curr.endOfWord;
+        return curr.getEoW();
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode curr = this.node;
-        char[] arr = prefix.toCharArray();
-        for(Character ch : arr){
-            if(!curr.children.containsKey(ch))return false;
-            curr = curr.children.get(ch);
+        TrieNode curr = this.root;
+        for(int i=0; i<prefix.length(); i++){
+            char ch = prefix.charAt(i);
+            if(!curr.getMap().containsKey(ch))
+                return false;
+            curr = curr.getMap().get(ch);
         }
         return true;
     }
 }
-class TrieNode{
-    HashMap<Character, TrieNode> children;
-    boolean endOfWord;
-    public TrieNode(){
-        this.children = new HashMap();
-        this.endOfWord = false;
-    }
-}
+
 /**
  * Your Trie object will be instantiated and called as such:
  * Trie obj = new Trie();
