@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/kcharvi/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kcharvi/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kcharvi/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/kcharvi/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/kcharvi/LeetCode/tree/master/0792-binary-search) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/kcharvi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/kcharvi/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/kcharvi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kcharvi/LeetCode/tree/master/0907-koko-eating-bananas) |
