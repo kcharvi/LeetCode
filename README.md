@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/kcharvi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kcharvi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kcharvi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kcharvi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/kcharvi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/kcharvi/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/kcharvi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kcharvi/LeetCode/tree/master/1036-rotting-oranges) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kcharvi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kcharvi/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/kcharvi/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kcharvi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
