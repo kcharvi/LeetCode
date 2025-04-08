@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/kcharvi/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/kcharvi/LeetCode/tree/master/0772-construct-quad-tree) |
+| [0792-binary-search](https://github.com/kcharvi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kcharvi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/kcharvi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/kcharvi/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/kcharvi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/kcharvi/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/kcharvi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
