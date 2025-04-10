@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/kcharvi/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1249-snapshot-array](https://github.com/kcharvi/LeetCode/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kcharvi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kcharvi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/kcharvi/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/kcharvi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1249-snapshot-array](https://github.com/kcharvi/LeetCode/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/kcharvi/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/kcharvi/LeetCode/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kcharvi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/kcharvi/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/kcharvi/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/kcharvi/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/kcharvi/LeetCode/tree/master/1249-snapshot-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/kcharvi/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
@@ -723,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/kcharvi/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/kcharvi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1249-snapshot-array](https://github.com/kcharvi/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/kcharvi/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/kcharvi/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kcharvi/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
