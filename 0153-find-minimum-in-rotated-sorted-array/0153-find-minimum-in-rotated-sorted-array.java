@@ -1,14 +1,18 @@
 class Solution {
     public int findMin(int[] nums) {
-        int a=0;
-        for(int i=0;i<nums.length-1;i++){
-        if(nums[i]>nums[i+1]){
-            return nums[i+1];
-        
-        }
+        int n = nums.length;
+
+        // Binary Search for Pivot
+        int l = 0;
+        int r = n-1;
+        while(l<r){
+            int mid = l+(r-l)/2;
+            if(nums[mid] < nums[r])
+                r = mid;
+            else l = mid + 1;
         }
 
-       return nums[0]; 
+        return nums[l];
     }
     
 }
