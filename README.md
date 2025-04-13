@@ -723,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/kcharvi/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kcharvi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/kcharvi/LeetCode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/kcharvi/LeetCode/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/kcharvi/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kcharvi/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -857,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/kcharvi/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/kcharvi/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/kcharvi/LeetCode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/kcharvi/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kcharvi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
