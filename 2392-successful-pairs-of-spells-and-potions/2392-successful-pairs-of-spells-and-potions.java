@@ -1,22 +1,19 @@
 class Solution {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
-        int n=spells.length;
-        int[] result = new int[n];
         Arrays.sort(potions);
-        for(int i=0; i<n; i++){
-            int spell = spells[i];
-            long find_min = (success + spell - 1) / spell;
-            int left = 0;
-            int right = potions.length-1;
-            
-            while(left<=right){
-                int mid = left+(right-left)/2;
-                if(potions[mid] >= find_min)
-                    right = mid-1;
-                else 
-                    left = mid+1;
+        int no_spells = spells.length;
+        int no_potions = potions.length;
+        int[] result = new int[no_spells];
+        for(int i = 0; i<no_spells; i++){
+            int l = 0;
+            int r = no_potions-1;
+            while(l<=r){
+                int mid = l+(r-l)/2;
+                if((long) potions[mid]*spells[i] < success)
+                    l = mid+1;
+                else r=mid-1;
             }
-            result[i] = potions.length - left;
+            result[i] = no_potions-l;
         }
         return result;
     }
