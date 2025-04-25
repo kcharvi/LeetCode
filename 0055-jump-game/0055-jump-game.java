@@ -1,10 +1,12 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int coverage=0;
-        for(int i=0;i<nums.length;i++){
-            if(i>coverage)return false;
-            coverage=Math.max(coverage,nums[i]+i);
-            if(coverage==nums.length-1)return true;
+        int end = 0;
+        int farthest = 0;
+        for(int i=0; i<nums.length; i++){
+            farthest = Math.max(farthest, i+nums[i]);
+            if(end == i)
+                end = farthest;
+            if(end<i)return false;
         }
         return true;
     }
