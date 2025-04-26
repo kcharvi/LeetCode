@@ -637,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/kcharvi/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/kcharvi/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/kcharvi/LeetCode/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kcharvi/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/kcharvi/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/kcharvi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kcharvi/LeetCode/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kcharvi/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/kcharvi/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kcharvi/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/kcharvi/LeetCode/tree/master/0120-triangle) |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kcharvi/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -730,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/kcharvi/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kcharvi/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/kcharvi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kcharvi/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kcharvi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kcharvi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -764,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kcharvi/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
