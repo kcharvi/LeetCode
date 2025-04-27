@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/kcharvi/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kcharvi/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0099-recover-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/kcharvi/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/kcharvi/LeetCode/tree/master/0207-course-schedule) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
@@ -787,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/kcharvi/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kcharvi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
