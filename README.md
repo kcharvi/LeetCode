@@ -606,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/kcharvi/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kcharvi/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0937-online-stock-span](https://github.com/kcharvi/LeetCode/tree/master/0937-online-stock-span) |
@@ -770,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/kcharvi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
@@ -798,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kcharvi/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kcharvi/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kcharvi/LeetCode/tree/master/0162-find-peak-element) |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0275-h-index-ii](https://github.com/kcharvi/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/kcharvi/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -852,6 +855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/kcharvi/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/kcharvi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/kcharvi/LeetCode/tree/master/0437-path-sum-iii) |
@@ -1047,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kcharvi/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kcharvi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/kcharvi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kcharvi/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/kcharvi/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -1143,4 +1148,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0278-first-bad-version](https://github.com/kcharvi/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kcharvi/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kcharvi/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
