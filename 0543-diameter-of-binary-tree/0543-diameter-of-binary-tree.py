@@ -12,16 +12,16 @@ class Solution:
         # Then calculate with -1 of path down as you move level down
         diameter = 0
 
-        def dfs(root, level) -> int:
+        def dfs(root) -> int:
             nonlocal diameter
             if root is None:
                 return 0
 
-            maxLeft = dfs(root.left, level+1)
-            maxRight = dfs(root.right, level+1)
+            maxLeft = dfs(root.left)
+            maxRight = dfs(root.right)
             diameter = max(diameter, maxLeft+maxRight)
             return max(maxLeft, maxRight)+1
-        dfs(root, 0)
+        dfs(root)
         return diameter
 
 
