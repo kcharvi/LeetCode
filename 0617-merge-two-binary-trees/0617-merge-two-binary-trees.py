@@ -11,8 +11,8 @@ class Solution:
         if root2 is None:
             return root1
 
-        val1 = root1.val if root1 else 0
-        val2 = root2.val if root2 else 0
+        val1 = root1.val
+        val2 = root2.val
 
         merged = TreeNode(val1 + val2)
         merged.left = self.mergeTrees(root1.left, root2.left)
