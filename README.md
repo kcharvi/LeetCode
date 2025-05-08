@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/kcharvi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/kcharvi/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kcharvi/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kcharvi/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/kcharvi/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/kcharvi/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kcharvi/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kcharvi/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -975,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/kcharvi/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/kcharvi/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kcharvi/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kcharvi/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Queue
 |  |
 | ------- |
@@ -1149,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/kcharvi/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kcharvi/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kcharvi/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kcharvi/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1175,6 +1179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/kcharvi/LeetCode/tree/master/0399-evaluate-division) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kcharvi/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kcharvi/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
 |  |
 | ------- |
