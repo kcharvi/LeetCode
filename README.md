@@ -725,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/kcharvi/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/kcharvi/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/kcharvi/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0458-poor-pigs](https://github.com/kcharvi/LeetCode/tree/master/0458-poor-pigs) |
 | [0474-ones-and-zeroes](https://github.com/kcharvi/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/kcharvi/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/kcharvi/LeetCode/tree/master/0518-coin-change-ii) |
@@ -1032,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/kcharvi/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/kcharvi/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kcharvi/LeetCode/tree/master/0441-arranging-coins) |
+| [0458-poor-pigs](https://github.com/kcharvi/LeetCode/tree/master/0458-poor-pigs) |
 | [0504-base-7](https://github.com/kcharvi/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kcharvi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1110,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kcharvi/LeetCode/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/kcharvi/LeetCode/tree/master/0458-poor-pigs) |
 ## Counting
 |  |
 | ------- |
