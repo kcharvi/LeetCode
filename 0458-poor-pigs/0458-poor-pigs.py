@@ -20,15 +20,17 @@ class Solution:
             return 0
         T = minutesToTest//minutesToDie + 1
         pigs = 0
-        # while (T**pigs) < buckets:
-        #     pigs += 1
-        l = 0
-        r = buckets
-        while l<=r:
-            pigs = l+(r-l)//2
-            if (T**pigs) < buckets:
-                l=pigs+1
-            else: r = pigs-1
-        return l
+        while (T**pigs) < buckets:
+            pigs += 1
+
+        return pigs 
+        # l = 0
+        # r = buckets
+        # while l<=r:
+        #     pigs = l+(r-l)//2
+        #     if (T**pigs) < buckets:
+        #         l=pigs+1
+        #     else: r = pigs-1
+        # return l
 
 
