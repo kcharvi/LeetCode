@@ -736,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/kcharvi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/kcharvi/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/kcharvi/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0956-number-of-music-playlists](https://github.com/kcharvi/LeetCode/tree/master/0956-number-of-music-playlists) |
 | [0967-minimum-falling-path-sum](https://github.com/kcharvi/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/kcharvi/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1035,6 +1036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/kcharvi/LeetCode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/kcharvi/LeetCode/tree/master/0458-poor-pigs) |
 | [0504-base-7](https://github.com/kcharvi/LeetCode/tree/master/0504-base-7) |
+| [0956-number-of-music-playlists](https://github.com/kcharvi/LeetCode/tree/master/0956-number-of-music-playlists) |
 | [1013-fibonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kcharvi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -1113,6 +1115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/kcharvi/LeetCode/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/kcharvi/LeetCode/tree/master/0458-poor-pigs) |
+| [0956-number-of-music-playlists](https://github.com/kcharvi/LeetCode/tree/master/0956-number-of-music-playlists) |
 ## Counting
 |  |
 | ------- |
