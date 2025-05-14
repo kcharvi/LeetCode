@@ -572,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/kcharvi/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/kcharvi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kcharvi/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/kcharvi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/kcharvi/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/kcharvi/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kcharvi/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Design
 |  |
 | ------- |
@@ -749,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/kcharvi/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kcharvi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/kcharvi/LeetCode/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kcharvi/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1042,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/kcharvi/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kcharvi/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/kcharvi/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kcharvi/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1122,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/kcharvi/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1777-determine-if-two-strings-are-close](https://github.com/kcharvi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/kcharvi/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
